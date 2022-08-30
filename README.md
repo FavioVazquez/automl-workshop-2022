@@ -22,9 +22,13 @@ Artificial Aplicada de LATAM-AI
 - [Machine learning avanzado](https://github.com/FavioVazquez/automl-workshop-2022/blob/main/ML_Advanced_NoAutoML.ipynb)
 - [AutoML con H2O-3](https://github.com/FavioVazquez/automl-workshop-2022/blob/main/H2O_AutoML.ipynb)
 - [AutoML con FLAML](https://github.com/FavioVazquez/automl-workshop-2022/blob/main/FLAML.ipynb)
-- [AutoML con Auto-Keras]()
+- [AutoML con Auto-Keras](https://github.com/FavioVazquez/automl-workshop-2022/blob/main/AutoKeras.ipynb)
 - [AutoML con TPOP](https://github.com/FavioVazquez/automl-workshop-2022/blob/main/TPOT.ipynb)
-- [AutoML con PyCaret]()
+- [AutoML con PyCaret](https://github.com/FavioVazquez/automl-workshop-2022/blob/main/PyCaret.ipynb)
+
+## Driverless-AI
+
+[Obtener el trial](https://h2o.ai/freetrial/)
 
 ## Slides
 
